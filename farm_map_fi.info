@@ -1,0 +1,7 @@
+name = Farm Map: Finland
+description = Finnish map layers for farmOS maps.
+core = 7.x
+package = farmOS
+dependencies[] = ctools
+dependencies[] = openlayers
+
